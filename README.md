@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student and Developer!
 
-- :dart: I’m currently learning Pvp/Laravel
+- :dart: I’m currently learning PhP/Laravel
 - :computer: I’m currently learning Web Development
 - :date: 2020 Goals: Master at Web Development
 - ⚡ Fun fact: I love to explore new repositories
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="sahinhurcan Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahinhurcan&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+
 
 [website]: https://sahinhurcan.com.tr/
-[linkedin]: https://www.linkedin.com/in/sahinhurcan/
-[mail]: mailto:sahin@sahinhurcan.com.tr
+[linkedin]: https://www.linkedin.com/in/emre-demir-260274149/
+[mail]: mailto:hwlberd@gmail.com
