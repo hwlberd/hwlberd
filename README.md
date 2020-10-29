@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Şahin HÜRCAN - sahinhurcan 👋
+### Hi there, I'm Emre Demir  👋
 
 ## I'm a Student and Developer!
 
-- :dart: I’m currently working on a .Net Core Project!
-- :computer: I’m currently learning ReactJS
-- :date: 2020 Goals: Contribute more to Open Source projects
+- :dart: I’m currently learning Pvp/Laravel
+- :computer: I’m currently learning Web Development
+- :date: 2020 Goals: Master at Web Development
 - ⚡ Fun fact: I love to explore new repositories
 
 ### Connect with me:
 
-[<img align="left" alt="sahinhurcan.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sahinhurcan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sahin | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
+[<img align="left" alt="http://emredemir.surge.sh/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.linkedin.com/in/emre-demir-260274149/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hwlberd | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
 
 <br />
 
