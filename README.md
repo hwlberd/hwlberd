@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="http://emredemir.surge.sh/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/emre-demir-260274149/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="emre | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="emre | linkedin " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hwlberd | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
 
 <br />
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://sahinhurcan.com.tr/
+[website]: https://emredemir.surge.sh
 [linkedin]: https://www.linkedin.com/in/emre-demir-260274149/
 [mail]: mailto:hwlberd@gmail.com
