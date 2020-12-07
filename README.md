@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 ## I'm a Student and Developer!
 
 - :dart: I’m currently learning PhP/Laravel
-- :computer: I’m currently learning Web Development
+- :computer: I’m currently learning :
+- :computer: Web Development ,
+- :computer: Flutter
 - :date: 2020 Goals: Master at Web Development
 - ⚡ Fun fact: I love to explore new repositories
+- ⚡ Fun fact: I love to learn new programming languages
 
 ### Connect with me:
 
