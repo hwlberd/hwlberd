@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :computer: I’m currently learning :
 - :computer: Web Development ,
 - :computer: Flutter
-- :date: 2020 Goals: Master at Web Development
+- :date: 2021 Goals: Master at Web Development/Mobile Application Development
 - ⚡ Fun fact: I love to explore new repositories
 - ⚡ Fun fact: I love to learn new programming languages
 
