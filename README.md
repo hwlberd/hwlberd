@@ -1,27 +1,11 @@
-### Hi there 👋
 
-<!--
-**hwlberd/hwlberd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there, I'm Emre Demir  👋
 
 ## I'm a Software Developer!
 
 - :dart: I’m currently learning PhP/Laravel and Asp.net Core with MVC
 - :computer: I’m currently learning :
-- :computer: Web Development ,
-- :computer: Flutter
+     Web Development and  Mobile Development
 - :date: 2021 Goals: Master at Web Development/Mobile Application Development
 - ⚡ Fun fact: I love to explore new repositories
 - ⚡ Fun fact: I love to learn new programming languages
