@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Emre Demir  👋
 
-## I'm a Student and Developer!
+## I'm a Software Developer!
 
-- :dart: I’m currently learning PhP/Laravel
+- :dart: I’m currently learning PhP/Laravel and Asp.net Core with MVC
 - :computer: I’m currently learning :
 - :computer: Web Development ,
 - :computer: Flutter
