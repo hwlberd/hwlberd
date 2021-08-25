@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer!
 
-- :dart: I’m currently learning PhP/Laravel and Asp.net Core with MVC
+- :dart: I’m currently learning PhP/Laravel and ReactJs
 - :computer: I’m currently learning :
      Web Development and  Mobile Development
 - :date: 2021 Goals: Master at Web Development/Mobile Application Development
