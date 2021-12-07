@@ -5,10 +5,8 @@
 
 - :dart: I’m currently learning PhP/Laravel and ReactJs
 - :computer: I’m currently learning :
-     Web Development and  Mobile Development
-- :date: 2021 Goals: Master at Web Development/Mobile Application Development
-- ⚡ Fun fact: I love to explore new repositories
-- ⚡ Fun fact: I love to learn new programming languages
+     Every kind of development
+
 
 ### Connect with me:
 
@@ -41,5 +39,6 @@
 
 
 [website]: https://emredemir.surge.sh
+
 [linkedin]: https://www.linkedin.com/in/emre-demir-260274149/
 [mail]: mailto:hwlberd@gmail.com
