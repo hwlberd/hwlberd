@@ -38,7 +38,7 @@
 
 
 
-[website]: https://birsorumvar.online
+[website]: http://birsorumvar.online
 
 [linkedin]: https://linkedin.com/in/hwlberd
 [mail]: mailto:hwlberd@gmail.com
