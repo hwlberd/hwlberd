@@ -40,5 +40,5 @@
 
 [website]: https://birsorumvar.online
 
-[linkedin]: linkedin.com/in/hwlberd
+[linkedin]: https://linkedin.com/in/hwlberd
 [mail]: mailto:hwlberd@gmail.com
