@@ -38,7 +38,7 @@
 
 
 
-[website]: https://emredemir.surge.sh
+[website]: https://birsorumvar.online
 
-[linkedin]: https://www.linkedin.com/in/emre-demir-260274149/
+[linkedin]: linkedin.com/in/hwlberd
 [mail]: mailto:hwlberd@gmail.com
