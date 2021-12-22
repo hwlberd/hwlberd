@@ -1,5 +1,5 @@
 
-### Hi there, I'm Emre Demir  👋
+### Hi there  👋
 
 ## I'm a Software Developer!
 
