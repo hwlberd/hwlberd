@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="emre | website" width="22px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" />][website]
-[<img align="left" alt="emre | linkedin " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="emre | website" width="25px" color="white" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" />][website]
+[<img align="left" alt="emre | linkedin " width="25px" src="https://www.pinclipart.com/picdir/big/100-1003028_svg-linkedin-icon-vector-clipart.png" />][linkedin]
 
 
 <br />
