@@ -3,9 +3,8 @@
 
 ## I'm a Software Developer!
 
-- :dart: I’m currently learning PhP/Laravel and ReactJs
-- :computer: I’m currently learning :
-     Every kind of development
+- :dart: I’m currently learning Springboot and ReactJS
+
 
 
 ### Connect with me:
